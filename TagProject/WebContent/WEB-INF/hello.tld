@@ -1,0 +1,14 @@
+<taglib>
+	<tlib-version>1.0</tlib-version>
+	<short-name>HelloTag</short-name>
+	<jsp-version>2.2</jsp-version>
+	<uri>http://www.anubhav.com/tags</uri>
+	
+	<tag>
+		<name>Hello</name>
+		<tag-class>com.jsp.JavaTags</tag-class>
+		<body-content>empty</body-content>
+			
+	</tag>
+
+</taglib>
